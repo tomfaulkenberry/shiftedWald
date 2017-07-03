@@ -1,5 +1,5 @@
 # shiftedWald
-Data and analysis files for Faulkenberry (submitted), "A single boundary accumulator model of response times in an arithmetic verification task"
+Data and analysis files for Faulkenberry (in press), "A single boundary accumulator model of response times in an arithmetic verification task", to appear in /Frontiers in Psychology/
 
 manuscript.pdf --> manuscript file<br>
 data.csv --> raw data file<br>
